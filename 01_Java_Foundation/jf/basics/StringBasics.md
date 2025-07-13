@@ -1,3 +1,4 @@
+```java
 package jf.basics;
 
 public class StringBasics {
@@ -93,3 +94,4 @@ public class StringBasics {
         System.out.println(" ".isBlank()); // true
     }
 }
+```
